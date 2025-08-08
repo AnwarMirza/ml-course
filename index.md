@@ -6,7 +6,9 @@ title: Machine Learning Fundamentals
 # Machine Learning Fundamentals  
 **CS 4501 - Fall 2025**  
 
+<!--
 ![Course Banner](assets/banner.png)
+-->
 
 **Hands-on ML • Scikit-Learn • TensorFlow • 15 Weeks**
 
