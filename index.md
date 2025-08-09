@@ -39,7 +39,7 @@ This comprehensive 15-week course follows Aurélien Géron's *"Hands-on Machine 
 - [Syllabus](syllabus.md)
 - [Course Materials](materials.md)
 - [Assignments](/assignments)
-- [Lecture Notes](lectures)
+- [Lecture Notes](/lectures)
 
 ---
 
