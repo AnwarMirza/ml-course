@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Machine Learning Fundamentals
+nav_enabled: false
 ---
 
 # Machine Learning Fundamentals  
